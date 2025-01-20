@@ -15,7 +15,7 @@ the original `ImagingEngine.dll` intact with [dll hijacking](https://github.com/
 ### How to use
 
 Download the `mscms.dll` from release and put it in `C:\Program Files\Windows Photo Viewer` folder.
-Make sure you replace both files x86 and x64 if they exist.
+Make sure you replace both files x86 and x64 if both Path exists.
 
 Example:
 C:\Program Files\Windows Photo Viewer\mscms.dll (64x)
